@@ -14,12 +14,11 @@ All implementations are written in Python with proper structure, outputs, and an
 # 🚀 Navigation  
   
 <p align="center">  
-  <a href="#-assignment-1-cpu-scheduling"><button>Assignment 1</button></a>  
-  <a href="#-assignment-2-bankers-algorithm"><button>Assignment 2</button></a>  
-  <a href="#-features"><button>Features</button></a>  
-  <a href="#-project-structure"><button>Structure</button></a>  
-  <a href="#-how-to-run"><button>Run</button></a>  
-  <a href="#-outputs"><button>Outputs</button></a>  
+  <a href="#-assignment-1-cpu-scheduling"><button>Assignment 1</button></a> | <a href="https://github.com/BeastBoom/Operating_Systems_-OS-_Lab_Assignments/tree/main/Assignment-1"><button>Folder</button></a> </br>
+  <a href="#-assignment-2-bankers-algorithm"><button>Assignment 2</button></a> | <a href="https://github.com/BeastBoom/Operating_Systems_-OS-_Lab_Assignments/tree/main/Assignment-2"><button>Folder</button></a> </br>
+  <a href="#-features"><button>Features</button></a>  </br>
+  <a href="#-project-structure"><button>Structure</button></a>    </br>
+  <a href="#-outputs"><button>Outputs</button></a>  </br>
 </p>  
   
 ---  
@@ -87,39 +86,16 @@ Need ≤ Available
 OS-Lab/  
 │  
 ├── Assignment-1/  
-│ ├── fcfs_sjf.py  
-│ ├── screenshots/  
-│ └── report.docx  
+│ ├── code.ipynb  
+│ └── Lab_Report-Assignment-1_Dhruv_Gupta_2401201015.pdf 
 │  
 ├── Assignment-2/  
-│ ├── bankers.py  
-│ ├── screenshots/  
-│ └── report.docx  
+│ ├── code.ipynb   
+│ └── Lab_Report-Assignment-2_Dhruv_Gupta_2401201015.pdf  
 │  
 └── README.md
 
-  
 ---  
-  
-# ▶️ How to Run  
-  
-## 1. Clone Repository
-
-git clone https://github.com/your-username/os-lab.git  
-cd os-lab
-
-  
-## 2. Run Assignment 1
-
-cd Assignment-1  
-python fcfs_sjf.py
-
-  
-## 3. Run Assignment 2
-
-cd Assignment-2  
-python bankers.py
-
   
 ---  
   
@@ -169,7 +145,8 @@ Safe Sequence: P1 -> P3 -> P4 -> P0 -> P2
   
 # 🛠️ Technologies Used  
   
-- Python 3.x  
+- Python 3.x
+- Jupyter Notebook
 - Standard Python Libraries  
 - Command Line Interface  
   
